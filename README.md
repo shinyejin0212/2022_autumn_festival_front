@@ -3,7 +3,7 @@
 # 📍 Project Description
 
 > **A mobile web service that provides community and festival information for the Dongguk University Fall Festival.**
-
+- service url : https://dgu-letsggirit.netlify.app/
 - 2022, LikeLion, an IT Startup Club, Dongguk Univ.
 - JUN 2022 - SEP 2022
 - We have created a service so that students can enjoy the fall festival held after three years more fun and effectively. 
